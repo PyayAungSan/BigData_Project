@@ -1,0 +1,21 @@
+				       
+Upload data on dumbo
+
+	- you can use third party tool like Cyber duck to upload data on dumbo first
+
+Upload data on hadoop
+	- hadoop fs -copyFromLocal Data.csv
+
+
+Run code using pyspark 
+	- spark-submit Name.py /user/netid/Data.csv
+
+
+Run code using pyspark 
+	- hadoop fs -getmerge Output.txt Output.txt
+
+
+
+
+	
+
